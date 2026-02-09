@@ -64,8 +64,8 @@
   ],
   "search": [
     {
-      "name": "organizations",
-      "route": "/organizations",
+      "name": "places",
+      "route": "/places",
       "geosearch": true,
       "map": {
         "geometry": "geometry",
@@ -80,7 +80,7 @@
         "port": 443,
         "protocol": "https",
         "api_key": "NNOE2b4GH1CR2k8OOVnAQhaQD8Rnzv9t",
-        "index_name": "organizations",
+        "index_name": "places",
         "query_by": "name"
       }
     }
