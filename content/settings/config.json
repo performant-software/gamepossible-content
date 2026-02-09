@@ -83,6 +83,6 @@
         "index_name": "organizations",
         "query_by": "name"
       }
-    },
+    }
   ]
 }
