@@ -1,10 +1,4 @@
 {
-  "detail_pages": {
-    "models": {
-      "organizations": {},
-      "places": {}
-    }
-  },
   "branding": {
     "footer_login": true
   },
@@ -15,10 +9,16 @@
     ]
   },
   "core_data": {
-    "url": "https://app.coredata.cloud",
+    "url": "https://app.coredata.cloud/projects/100/275?view=all",
     "project_ids": [
       "100"
     ]
+  },
+  "detail_pages": {
+    "models": {
+      "organizations": {},
+      "places": {}
+    }
   },
   "i18n": {
     "default_locale": "en",
